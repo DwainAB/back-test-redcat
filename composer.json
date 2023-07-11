@@ -1,0 +1,16 @@
+{
+    "name": "test/redcat",
+    "description": "composer du test tehnique de redcat",
+    "type": "project",
+    "authors": [
+        {
+            "name": "dwain"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "guzzlehttp/guzzle": "^7.7",
+        "mailjet/mailjet-apiv3-php": "^1.5"
+    }
+}
