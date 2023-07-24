@@ -1,5 +1,7 @@
 <?php
 
+echo "test";
+
 $dbname="test_redcat";
 $host="localhost";
 $username="root";
